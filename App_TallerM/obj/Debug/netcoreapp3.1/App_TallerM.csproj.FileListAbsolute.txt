@@ -1,0 +1,13 @@
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.exe
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.deps.json
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.runtimeconfig.json
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.runtimeconfig.dev.json
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.dll
+D:\visual_studio\App_TallerM\App_TallerM\bin\Debug\netcoreapp3.1\App_TallerM.pdb
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.csprojAssemblyReference.cache
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.AssemblyInfoInputs.cache
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.AssemblyInfo.cs
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.csproj.CoreCompileInputs.cache
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.dll
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.pdb
+D:\visual_studio\App_TallerM\App_TallerM\obj\Debug\netcoreapp3.1\App_TallerM.genruntimeconfig.cache
